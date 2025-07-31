@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a mixed-methods researcher with 7+ years of experience in industry and academia. Skilled in leading studies, applying advanced statistics, collaborating in agile cross-functional teams, and presenting to diverse audiences.
+
+#### Industry Mixed-Methods Studies  
+[Overview of my industry mixed-methods studies](https://github.com/alvegorova/Mixed_Method_Studies)
+
+#### Academic Quantitative Research  
+- [Study on anxiety, emotion, and attention in fraction problem-solving using remote eye-tracking, log data, and self-reports](https://github.com/alvegorova/Eye-Tracking_fractions_study)  
+- [Poster: Profiling middle school students by emotional and cognitive math performance and comparing their self-efficacy (replicated study)](https://github.com/alvegorova/MPxMA_clusters_psychonomics_2024)  
+- [Short paper: Comparing behavioral logs in a math learning game (ICLS 2024)](https://repository.isls.org/bitstream/1/10647/1/ICLS2024_1163-1166.pdf)
+
 <!--
 **alvegorova/alvegorova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

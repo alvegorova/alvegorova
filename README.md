@@ -2,7 +2,7 @@
 
 I'm a mixed-methods researcher with 7+ years of experience in industry and academia. Skilled in leading studies, applying advanced statistics, collaborating in agile cross-functional teams, and presenting to diverse audiences.
 
-#### Industry Mixed-Methods Studies  
+#### Industry Mixed-Methods Research  
 [Overview of my industry mixed-methods studies](https://github.com/alvegorova/Mixed_Method_Studies)
 
 #### Academic Quantitative Research  
